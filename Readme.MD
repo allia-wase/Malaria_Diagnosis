@@ -1,4 +1,4 @@
-# Malaria Diagnosis with CNNs — Group 13
+# Malaria Diagnosis with CNNs - Group 13
 
 Binary classification of blood-cell microscopy images as **Parasitized** or **Uninfected** using convolutional neural networks.
 
@@ -37,12 +37,12 @@ Each member ran 7 experiments varying hyperparameters, architecture choices, and
 ## Repository Structure
 
 ```
-Malaria_Baseline_CNN_Hasbiyallah.ipynb   — Baseline CNN (7 experiments)
-Malaria_Improved_CNN_Jean.ipynb          — Improved CNN (7 experiments)
-Malaria_VGG16_Hamse.ipynb               — VGG16 transfer learning (7 experiments)
-Malaria_MobileNetV2_Alliane.ipynb        — MobileNetV2 transfer learning (7 experiments)
-Malaria_ResNet_Bakhit.ipynb             — ResNet transfer learning (7 experiments)
-README.md                                — This file
+Malaria_Baseline_CNN_Hasbiyallah.ipynb   - Baseline CNN (7 experiments)
+Malaria_Improved_CNN_Jean.ipynb          - Improved CNN (7 experiments)
+Malaria_VGG16_Hamse.ipynb               - VGG16 transfer learning (7 experiments)
+Malaria_MobileNetV2_Alliane.ipynb        - MobileNetV2 transfer learning (7 experiments)
+Malaria_ResNet_Bakhit.ipynb             - ResNet transfer learning (7 experiments)
+README.md                                - This file
 ```
 
 ---
