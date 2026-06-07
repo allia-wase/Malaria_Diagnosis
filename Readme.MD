@@ -1,4 +1,4 @@
-# Malaria Diagnosis with CNNs — Group 6
+# Malaria Diagnosis with CNNs — Group 17
 
 Five CNN models classifying blood-cell images as Parasitized or Uninfected
 (NIH malaria dataset). One baseline, one improved, three transfer-learning models.
