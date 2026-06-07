@@ -1,4 +1,4 @@
-# Malaria Diagnosis with CNNs — Group 17
+# Malaria Diagnosis with CNNs — Group 13
 
 Binary classification of blood-cell microscopy images as **Parasitized** or **Uninfected** using convolutional neural networks.
 
